@@ -1,6 +1,6 @@
 {
   "name": "@flynncao/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Flynn's ESLint config",
   "author": "Flynn Cao <flynncao@yahoo.com> (https://github.com/FlynnCao/)",
   "license": "MIT",
