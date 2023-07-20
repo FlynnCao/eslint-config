@@ -17,9 +17,9 @@ importers:
       eslint:
         specifier: ^8.45.0
         version: 8.45.0
-      eslint-plugin-antfu:
-        specifier: link:./packages/eslint-plugin-antfu
-        version: link:packages/eslint-plugin-antfu
+      eslint-plugin-flynncao:
+        specifier: link:./packages/eslint-plugin-flynncao
+        version: link:packages/eslint-plugin-flynncao
       rimraf:
         specifier: ^5.0.1
         version: 5.0.1
@@ -78,9 +78,9 @@ importers:
 
   packages/eslint-config-basic:
     dependencies:
-      eslint-plugin-antfu:
+      eslint-plugin-flynncao:
         specifier: workspace:*
-        version: link:../eslint-plugin-antfu
+        version: link:../eslint-plugin-flynncao
       eslint-plugin-eslint-comments:
         specifier: ^3.2.0
         version: 3.2.0(eslint@8.45.0)
@@ -188,7 +188,7 @@ importers:
         specifier: ^8.45.0
         version: 8.45.0
 
-  packages/eslint-plugin-antfu:
+  packages/eslint-plugin-flynncao:
     dependencies:
       '@typescript-eslint/utils':
         specifier: ^6.0.0

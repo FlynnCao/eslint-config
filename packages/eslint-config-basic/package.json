@@ -4,7 +4,7 @@
   "description": "",
   "author": "Flynn Cao <flynncao@yahoo.com> (https://github.com/FlynnCao/)",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/eslint-config",
+  "homepage": "https://github.com/FlynnCao/eslint-config",
   "keywords": [
     "eslint-config"
   ],
@@ -19,7 +19,6 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "eslint-plugin-antfu": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "npm:eslint-plugin-i@2.27.5-4",
