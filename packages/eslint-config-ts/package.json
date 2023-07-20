@@ -1,8 +1,8 @@
 {
-  "name": "@antfu/eslint-config-ts",
+  "name": "@flynncao/eslint-config-ts",
   "version": "0.39.8",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
+  "author": "Flynn Cao <flynncao@yahoo.com> (https://github.com/FlynnCao/)",
   "license": "MIT",
   "homepage": "https://github.com/antfu/eslint-config",
   "keywords": [
@@ -17,7 +17,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@antfu/eslint-config-basic": "workspace:*",
+    "@flynncao/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
     "eslint-plugin-jest": "^27.2.3"

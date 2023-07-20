@@ -1,8 +1,8 @@
 {
-  "name": "@antfu/eslint-config-basic",
+  "name": "@flynncao/eslint-config-basic",
   "version": "0.39.8",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
+  "author": "Flynn Cao <flynncao@yahoo.com> (https://github.com/FlynnCao/)",
   "license": "MIT",
   "homepage": "https://github.com/antfu/eslint-config",
   "keywords": [
