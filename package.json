@@ -1,13 +1,10 @@
 {
   "name": "@flynncao/eslint-config-monorepo",
   "version": "0.0.1",
+  "private": true,
   "packageManager": "pnpm@8.6.7",
   "author": "Flynn Cao <flynncao@yahoo.com> (https://github.com/FlynnCao/)",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  },
   "scripts": {
     "lint": "pnpm -r run stub && eslint .",
     "test": "pnpm -r run test",
