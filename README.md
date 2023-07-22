@@ -2,7 +2,16 @@
 
 [![npm](https://img.shields.io/npm/v/@flynncao/eslint-config?color=444&label=)](https://npmjs.com/package/@flynncao/eslint-config) 
 
-This repository was forked from [antfu](https://github.com/antfu) 's related [ESLint presets](https://github.com/antfu/eslint-config), probing to avoid using prettier in VSCode while keep code clean and beneficial for teamwork.
+This repository was forked from [antfu](https://github.com/antfu) 's related [ESLint presets](https://github.com/antfu/eslint-config), probing to [avoid using prettier](https://antfu.me/posts/why-not-prettier) in your IDE while keep code clean and beneficial for teamwork.
+
+> Notice: for better publication I remove [eslint-plugin-antfu](https://github.com/antfu/eslint-config/tree/main/packages/eslint-plugin-antfu) from this repository temporarily.
+## Features:
+
+### Additional:
+
+- Support [Case Police](https://github.com/antfu/case-police)
+
+### Original : 
 
 - Single quotes, no semi
 - Auto fix for formatting (aimed to be used standalone **without** Prettier)
@@ -11,7 +20,6 @@ This repository was forked from [antfu](https://github.com/antfu) 's related [ES
 - Sorted imports, dangling commas
 - Reasonable defaults, best practices, only one-line of config
 - **Style principle**: Minimal for reading, stable for diff
-- Case Checking with [Case Police](https://github.com/antfu/case-police)
 
 ## Usage
 

@@ -34,6 +34,7 @@
     "yaml-eslint-parser": "^1.2.2"
   },
   "devDependencies": {
-    "eslint": "^8.45.0"
+    "eslint": "^8.45.0",
+    "eslint-plugin-case-police": "^0.6.1"
   }
 }
